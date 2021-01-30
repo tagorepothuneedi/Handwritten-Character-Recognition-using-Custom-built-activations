@@ -1,0 +1,1 @@
+# Handwritten-Character-Recognition-using-Custom-built-activations
